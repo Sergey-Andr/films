@@ -1,6 +1,9 @@
+import MainLoyout from "./loyouts/main.tsx";
+
 function App() {
     return (
         <>
+            <MainLoyout />
         </>
     );
 }
